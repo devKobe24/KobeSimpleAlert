@@ -13,7 +13,7 @@ Pod::Spec.new do |s|
 
   s.description      = <<-DESC
 This is KobeSimpleAlert app.
-                          DESC
+DESC
 
   s.homepage         = 'https://github.com/devKobe24/KobeSimpleAlert'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
