@@ -24,4 +24,5 @@ DESC
   s.source_files = 'KobeSimpleAlert/Classes/**/*'
   s.resource = 'KobeSimpleAlert/Assets/**/*'
   s.frameworks = 'UIKit'
+  s.swift_versions = '5.0'
 end
