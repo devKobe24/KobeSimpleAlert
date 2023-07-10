@@ -22,7 +22,7 @@ pod 'KobeSimpleAlert'
 
 ## Author
 
-VincentGeranium, mskang@xingxingmobility.com
+DevKove24, dev.skyachieve91@gmail.com
 
 ## License
 
