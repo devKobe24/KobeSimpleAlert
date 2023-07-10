@@ -13,7 +13,7 @@
 		5999C92D545A709F86C70C7F2D031ABC /* Pods-KobeSimpleAlert_Tests-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = B764AE22FACEBB51093D84F2E2686B1E /* Pods-KobeSimpleAlert_Tests-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		5CA3EEB66B607C858ED7329A14A3DACC /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 73010CC983E3809BECEE5348DA1BB8C6 /* Foundation.framework */; };
 		5D601A737C5172D863B71C0CF72E108F /* KobeSimpleAlert-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = B8CA6BEC403BA731D929244AE02BF97B /* KobeSimpleAlert-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		8CD6673459BB3A64D10B35071AA06E3B /* ReplaceMe.swift in Sources */ = {isa = PBXBuildFile; fileRef = F0BC59B22FAE869CCA141472729C6405 /* ReplaceMe.swift */; };
+		8CD6673459BB3A64D10B35071AA06E3B /* KobeSimpleAlert.swift in Sources */ = {isa = PBXBuildFile; fileRef = F0BC59B22FAE869CCA141472729C6405 /* KobeSimpleAlert.swift */; };
 		BB7D953AEBADDA8E18F7221645F33E5B /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 73010CC983E3809BECEE5348DA1BB8C6 /* Foundation.framework */; };
 		D7A202C914939B3490423BE0B1C7E7D5 /* Pods-KobeSimpleAlert_Tests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 75B5B302A5DCA7835469DC2C676FB885 /* Pods-KobeSimpleAlert_Tests-dummy.m */; };
 		E0C4FAAAF212B965C98969079628D5FE /* Pods-KobeSimpleAlert_Example-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 65290228D234A2332F040CC09DE81B84 /* Pods-KobeSimpleAlert_Example-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
@@ -68,7 +68,7 @@
 		CE4E9EBA6A9DD358A9AEDDBB6BAB0937 /* KobeSimpleAlert */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = KobeSimpleAlert; path = KobeSimpleAlert.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		DB4D738D3FA6D480EF8D129511D6A613 /* KobeSimpleAlert.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; path = KobeSimpleAlert.podspec; sourceTree = "<group>"; tabWidth = 2; };
 		DDC3B661758310DCB4E73B7ABEE11220 /* Pods-KobeSimpleAlert_Example-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-KobeSimpleAlert_Example-dummy.m"; sourceTree = "<group>"; };
-		F0BC59B22FAE869CCA141472729C6405 /* ReplaceMe.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ReplaceMe.swift; path = KobeSimpleAlert/Classes/ReplaceMe.swift; sourceTree = "<group>"; };
+		F0BC59B22FAE869CCA141472729C6405 /* KobeSimpleAlert.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = KobeSimpleAlert.swift; path = KobeSimpleAlert/Classes/KobeSimpleAlert.swift; sourceTree = "<group>"; };
 		FDCB5D2BCAC7DB8303FC5ED70C5FD6AB /* Pods-KobeSimpleAlert_Example-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-KobeSimpleAlert_Example-frameworks.sh"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -181,7 +181,7 @@
 		BE329081D3AEDEC2F3AF6FFDA7DA01F1 /* KobeSimpleAlert */ = {
 			isa = PBXGroup;
 			children = (
-				F0BC59B22FAE869CCA141472729C6405 /* ReplaceMe.swift */,
+				F0BC59B22FAE869CCA141472729C6405 /* KobeSimpleAlert.swift */,
 				008D1A0CBAAB5E9039359CBC7165DDEC /* Pod */,
 				FCBCD93CD90DACD8C0C62DED40714442 /* Support Files */,
 			);
@@ -376,7 +376,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				23298D977A893760FB198689B21248D8 /* KobeSimpleAlert-dummy.m in Sources */,
-				8CD6673459BB3A64D10B35071AA06E3B /* ReplaceMe.swift in Sources */,
+				8CD6673459BB3A64D10B35071AA06E3B /* KobeSimpleAlert.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
