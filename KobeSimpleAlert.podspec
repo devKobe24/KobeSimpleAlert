@@ -18,7 +18,7 @@ DESC
   s.homepage         = 'https://github.com/devKobe24/KobeSimpleAlert'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'devKobe24' => 'dev.skyachieve91@gmail.com' }
-  s.source           = { :git => 'https://github.com/devKobe24/KobeSimpleAlert', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/devKobe24/KobeSimpleAlert.git', :tag => s.version.to_s }
 
   s.ios.deployment_target = '13.0'
   s.source_files = 'KobeSimpleAlert/Classes/**/*'
