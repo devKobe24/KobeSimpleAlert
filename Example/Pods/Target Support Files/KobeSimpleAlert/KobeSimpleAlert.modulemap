@@ -1,0 +1,6 @@
+framework module KobeSimpleAlert {
+  umbrella header "KobeSimpleAlert-umbrella.h"
+
+  export *
+  module * { export * }
+}

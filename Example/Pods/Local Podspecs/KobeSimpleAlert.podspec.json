@@ -1,0 +1,22 @@
+{
+  "name": "KobeSimpleAlert",
+  "version": "0.1.0",
+  "summary": "A short description of KobeSimpleAlert.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/VincentGeranium/KobeSimpleAlert",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "VincentGeranium": "mskang@xingxingmobility.com"
+  },
+  "source": {
+    "git": "https://github.com/VincentGeranium/KobeSimpleAlert.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "KobeSimpleAlert/Classes/**/*"
+}

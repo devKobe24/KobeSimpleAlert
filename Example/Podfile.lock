@@ -1,0 +1,16 @@
+PODS:
+  - KobeSimpleAlert (0.1.0)
+
+DEPENDENCIES:
+  - KobeSimpleAlert (from `../`)
+
+EXTERNAL SOURCES:
+  KobeSimpleAlert:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  KobeSimpleAlert: 94599bcbc212c0a568914c46babf3d2c20ca03fa
+
+PODFILE CHECKSUM: 31ed7d30c778280b3daf3110b053b3ccc05c0ab0
+
+COCOAPODS: 1.12.1
